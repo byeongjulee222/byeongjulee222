@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 </div>
 
-<div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juya1503)](https://solved.ac/juya1503/)
-</div>
+<a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juya1503)](https://solved.ac/juya1503/)
+</a>
