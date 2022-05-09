@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juya1503)](https://solved.ac/juya1503/)
 
+<!--
 [![Dave's github stats](https://github-readme-stats.vercel.app/api?username=byeongjulee222&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+-->
